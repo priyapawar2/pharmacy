@@ -58,7 +58,7 @@ height: 470px;
                 </a>
               </div>
 </div>
-<div id="footer" align="Center"> Pharmacy Sys 2013. Copyright All Rights Reserved</div>
+<div id="footer" align="Center"> Pharmacy System 2016. Copyright All Rights Reserved</div>
 </div>
 </body>
 </html>
