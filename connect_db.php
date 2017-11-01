@@ -1,7 +1,7 @@
 <?php
 
 error_reporting (E_ALL ^ E_NOTICE ^ E_WARNING);
-$con=@mysql_connect('localhost','root','shriganesh')or die("cannot connect to server");
+$con=@mysql_connect('localhost','root','------')or die("cannot connect to server");
 mysql_select_db('pharmacy')or die("cannot connect to database");
 
 ?>
