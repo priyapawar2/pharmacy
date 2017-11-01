@@ -32,7 +32,7 @@ $message1="<font color=red>Update Failed, Try again</font>";
 <!DOCTYPE html>
 <html>
 <head>
-<title><?php $username?> Pharmacy Sys</title>
+<title><?php $username?> Pharmacy System</title>
 <link rel="stylesheet" type="text/css" href="style/mystyle.css">
 <link rel="stylesheet" href="style/style.css" type="text/css" media="screen" /> 
 <script src="js/function.js" type="text/javascript"></script>
@@ -42,7 +42,7 @@ $message1="<font color=red>Update Failed, Try again</font>";
 <body>
 <div id="content">
 <div id="header">
-<h1><a href="#"><img src="images/hd_logo.jpg"></a> Pharmacy Sys</h1></div>
+<h1><a href="#"><img src="images/hd_logo.jpg"></a> Pharmacy System</h1></div>
 <div id="left_column">
 <div id="button">
 <ul>
@@ -84,7 +84,7 @@ $message1="<font color=red>Update Failed, Try again</font>";
     </div>  
 </div>
 </div>
-<div id="footer" align="Center"> Pharmacy Sys 2013. Copyright All Rights Reserved</div>
+<div id="footer" align="Center"> Pharmacy System 2016. Copyright All Rights Reserved</div>
 </div>
 </body>
 </html>
