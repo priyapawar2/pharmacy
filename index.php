@@ -80,7 +80,7 @@ height: auto;}
 <body>
 <div id="content">
 <div id="header">
-<h1><img src="images/hd_logo.jpg">Pharmacy Sys</h1>
+<h1><img src="images/hd_logo.jpg">Pharmacy System</h1>
 </div>
 <div id="main">
 
@@ -105,7 +105,7 @@ height: auto;}
     </div>
     </section>
 </div>
-<div id="footer" align="Center"> Pharmacy Sys 2013. Copyright All Rights Reserved</div>
+<div id="footer" align="Center"> Pharmacy System 2016. Copyright All Rights Reserved</div>
 </div>
 </body>
 </html>
