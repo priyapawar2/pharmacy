@@ -15,7 +15,7 @@ exit();
 <!DOCTYPE html>
 <html>
 <head>
-<title><?php echo $user;?> - Pharmacy Sys</title>
+<title><?php echo $user;?> - Pharmacy System</title>
 <link rel="stylesheet" type="text/css" href="style/mystyle.css">
 <link rel="stylesheet" href="style/style.css" type="text/css" media="screen" /> 
 <link rel="stylesheet" type="text/css" href="style/dashboard_styles.css"  media="screen" />
@@ -66,7 +66,7 @@ height: 470px;
                 </a>
         </div>
 </div>
-<div id="footer" align="Center"> Pharmacy Sys 2013. Copyright All Rights Reserved</div>
+<div id="footer" align="Center"> Pharmacy System 2016. Copyright All Rights Reserved</div>
 </div>
 </body>
 </html>
